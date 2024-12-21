@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/suman-portfolio/static/css/main.7af9623c.css",
-    "main.js": "/suman-portfolio/static/js/main.64123cf2.js",
-    "static/media/aboutme-image.png.jpg": "/suman-portfolio/static/media/aboutme-image.png.95ba5f3ad295ac89389a.jpg",
-    "static/media/suman-image.png.jpg": "/suman-portfolio/static/media/suman-image.png.0df5506f2aae7a3d5ebe.jpg",
-    "static/media/logo-image.png": "/suman-portfolio/static/media/logo-image.1453c860b41900d4f12b.png",
-    "index.html": "/suman-portfolio/index.html",
-    "main.7af9623c.css.map": "/suman-portfolio/static/css/main.7af9623c.css.map",
-    "main.64123cf2.js.map": "/suman-portfolio/static/js/main.64123cf2.js.map"
+    "main.css": "/sumank07/suman-portfolio.git/static/css/main.7af9623c.css",
+    "main.js": "/sumank07/suman-portfolio.git/static/js/main.b46d094f.js",
+    "static/media/aboutme-image.png.jpg": "/sumank07/suman-portfolio.git/static/media/aboutme-image.png.95ba5f3ad295ac89389a.jpg",
+    "static/media/suman-image.png.jpg": "/sumank07/suman-portfolio.git/static/media/suman-image.png.0df5506f2aae7a3d5ebe.jpg",
+    "static/media/logo-image.png": "/sumank07/suman-portfolio.git/static/media/logo-image.1453c860b41900d4f12b.png",
+    "index.html": "/sumank07/suman-portfolio.git/index.html",
+    "main.7af9623c.css.map": "/sumank07/suman-portfolio.git/static/css/main.7af9623c.css.map",
+    "main.b46d094f.js.map": "/sumank07/suman-portfolio.git/static/js/main.b46d094f.js.map"
   },
   "entrypoints": [
     "static/css/main.7af9623c.css",
-    "static/js/main.64123cf2.js"
+    "static/js/main.b46d094f.js"
   ]
 }
