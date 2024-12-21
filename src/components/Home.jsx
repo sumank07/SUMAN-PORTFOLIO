@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="h-screen flex items-center justify-center bg-black text-white"
+      className="h-screen flex items-center justify-center bg--white"
     >
       <div className="text-center flex flex-col md:space-x-12">
         <img

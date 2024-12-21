@@ -3,7 +3,7 @@ import { FaHtml5, FaCss3Alt, FaReact, FaGitAlt } from "react-icons/fa";
 
 const Skills = () => {
   return (
-    <section id="skills" className="py-40 bg-black text-white">
+    <section id="skills" className="py-40 bg--white">
       <div className="container mx-auto text-center">
         <h2 className="text-4xl font-bold mb-6">My Skills</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 justify-items-center">

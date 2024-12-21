@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FiSun, FiMoon } from "react-icons/fi";
+import logoImage from "../Assets/logo-image.png";
 
 const Navbar = ({ logo, toggleBtn, isDarkMode }) => {
   const [open, setOpen] = useState(false);
@@ -11,7 +12,7 @@ const Navbar = ({ logo, toggleBtn, isDarkMode }) => {
       aria-label="Main Navigation"
     >
       <div className="container mx-auto flex justify-between items-center">
-        <img src={logo} alt="Logo" className="h-12 w-12" />
+        <img src={logoImage } alt="" className="h-12 w-12" />
 
         <button
           onClick={() => setOpen(!open)}
